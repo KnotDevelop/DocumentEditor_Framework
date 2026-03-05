@@ -1,0 +1,13 @@
+{
+  "header": "Original Document",
+  "footer": "",
+  "elements": [
+    { "type": "Paragraph", "text": "This is easy paragraph", "font": "Times", "size": 14, "color": "Black" },
+    { "type": "Image", "url": "hero_avatar.png", "caption": "Main character img" },
+    { "type": "Table", "rows": 3, "cols": 2 },
+    { "type": "ShapeAdapter", "shape": "Circle", "p1": 15, "p2": 0 },
+    { "type": "ShapeAdapter", "shape": "Rectangle", "p1": 20, "p2": 10 },
+    { "type": "ShapeAdapter", "shape": "Star", "p1": 50, "p2": 0 },
+    { "type": "ShapeAdapter", "shape": "Hexagon", "p1": 100, "p2": 20 }
+  ]
+}

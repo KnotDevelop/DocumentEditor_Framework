@@ -1,0 +1,44 @@
+{ "type": "Folder", "name": "Root", "contents": [
+    { "type": "Folder", "name": "My Documents", "contents": [
+    { "type": "File", "name": "Resume.pdf", "document": {
+      "header": "Untitled",
+      "footer": "",
+      "state": "Draft",
+      "elements": [
+        { "type": "Paragraph", "text": "This is easy paragraph", "font": "Times", "size": 14, "color": "Black" },
+        { "type": "Image", "url": "hero_avatar.png", "caption": "Main character img" },
+        { "type": "Table", "rows": 3, "cols": 2 },
+        { "type": "ShapeAdapter", "shape": "Circle", "p1": 15, "p2": 0 },
+        { "type": "ShapeAdapter", "shape": "Rectangle", "p1": 20, "p2": 10 },
+        { "type": "ShapeAdapter", "shape": "Star", "p1": 50, "p2": 0 },
+        { "type": "ShapeAdapter", "shape": "Hexagon", "p1": 100, "p2": 20 }
+      ]
+    } },
+    { "type": "File", "name": "Budget.xlsx", "document": {
+      "header": "Clone Copy",
+      "footer": "",
+      "state": "Draft",
+      "elements": [
+        { "type": "Paragraph", "text": "This is easy paragraph", "font": "Times", "size": 14, "color": "Black" },
+        { "type": "Image", "url": "hero_avatar.png", "caption": "Main character img" },
+        { "type": "Table", "rows": 3, "cols": 2 },
+        { "type": "ShapeAdapter", "shape": "Circle", "p1": 15, "p2": 0 },
+        { "type": "ShapeAdapter", "shape": "Rectangle", "p1": 20, "p2": 10 },
+        { "type": "ShapeAdapter", "shape": "Star", "p1": 50, "p2": 0 },
+        { "type": "ShapeAdapter", "shape": "Hexagon", "p1": 100, "p2": 20 },
+        { "type": "Paragraph", "text": "Modify text before assign" }
+      ]
+    } }
+] },
+    { "type": "Folder", "name": "Games", "contents": [
+    { "type": "File", "name": "GameDesign.docx", "document": {
+      "header": "Top Secret Game Design Document",
+      "footer": "Confidential 2024",
+      "state": "Review",
+      "elements": [
+        { "type": "ShapeAdapter", "shape": "Circle", "p1": 10, "p2": 0 },
+        { "type": "ShapeAdapter", "shape": "Star", "p1": 30, "p2": 0 }
+      ]
+    } }
+] }
+] }
