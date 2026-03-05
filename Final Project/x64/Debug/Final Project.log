@@ -1,0 +1,15 @@
+﻿  ApplicationSettings.hpp
+  CharacterStyle.hpp
+  DocumentBuilder.hpp
+  DocumentElementFactory.hpp
+  DocumentMemento.hpp
+  FileComposite.hpp
+  IFileSystemComponent.hpp
+  LegacyShapeDrawer.hpp
+  Observer.hpp
+  StatusBar.hpp
+  main.cpp
+  Generating Code...
+  Final Project.vcxproj -> C:\Users\User\Downloads\New folder (5)\Final Project\x64\Debug\Final Project.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
